@@ -1,0 +1,3 @@
+pyYAML
+requests
+Adafruit_DHT

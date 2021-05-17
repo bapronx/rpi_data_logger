@@ -1,4 +1,10 @@
 API_KEY: 
   123456789
 local_db:
-  data/data_log.db
+  data/data_log.txt
+REFRESH_TIMER_SEC:
+  60
+MODEL_NUMBER:
+  11
+GPIO_NUMBER:
+  4
